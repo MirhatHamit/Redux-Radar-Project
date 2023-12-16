@@ -1,3 +1,7 @@
+
+![ezgif com-video-to-gif-converted](https://github.com/MirhatHamit/Redux-Radar-Project/assets/138917060/8864b6e5-ce22-41f2-8b50-eba8bcc9baed)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
